@@ -1,6 +1,6 @@
 
 
-input <- read.table("input3.txt", sep = "")
+input <- read.table("input03.txt", sep = "")
 
 ukol = 2 # 1 or 2
 

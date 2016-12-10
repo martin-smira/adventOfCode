@@ -1,6 +1,6 @@
 library(stringr)
 
-input <- scan("input4.txt", character())
+input <- scan("input04.txt", character())
 
 # Part 1
 

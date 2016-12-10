@@ -2,7 +2,7 @@
 
 now = 5
 
-input = scan("input2.txt", character())
+input = scan("input02.txt", character())
 nDig = length(input)
 
 output = c()

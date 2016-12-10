@@ -1,5 +1,5 @@
 
-input <- scan("input1.txt", character())
+input <- scan("input01.txt", character())
 
 dir <- substr(input, 1, 1)
 
