@@ -2,6 +2,8 @@ library(stringr)
 
 funD12 <- function(a, b, c, d) {
 
+  instrNo <- 1
+  
   while (TRUE) {
     
     # print(instrNo)
